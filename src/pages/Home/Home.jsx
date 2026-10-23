@@ -2,7 +2,7 @@ import React from 'react'
 import heroPage from './HomeHero.png'
 import './Home.css'
 function Home() {
-  return (
+  return ( 
     <div >
       <div className='homeContainer'>
         <img src={heroPage} className=''/>
