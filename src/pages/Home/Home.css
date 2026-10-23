@@ -1,0 +1,37 @@
+img{
+    padding: 0;
+    margin: 0; 
+    width: 100%;
+    opacity: 0.8;
+    display: block;  
+    /* border: 0.5px solid rgba(7, 170, 224, 0.337); */
+    box-shadow: 0 20px 40px rgba(20, 135, 202, 0.15);
+    height: 250px;
+    background-color: #02cafc46;
+
+}
+   .secondary-div{
+    box-shadow: 0 20px 40px rgba(20, 73, 104, 0.15);
+    height: 100vh;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    background-color: rgba(255,255,255,0.2);
+    backdrop-filter: blur(5px);
+
+   }
+.Dr-search{
+     border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 45px;
+    box-shadow: 0 20px 40px rgba(20, 73, 104, 0.15);
+    height: 350px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    background-color: rgba(255,255,255,0.2);
+    backdrop-filter: blur(10px);
+   
+}
+
