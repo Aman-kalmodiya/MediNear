@@ -15,7 +15,7 @@ function App() {
     backgroundAttachment: 'fixed', 
     minHeight: '100vh', 
      width: '100%'
-  }; 
+  };
   return (
     <div style={mainContainerStyle}>      
       <Navbar/>
